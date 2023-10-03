@@ -14,4 +14,4 @@ The study assessed the practice of exclusive breastfeeding among nurses and midw
 * Excel and Power Query for data cleaning, Sql for filtering, PowerBI for analysis and data Vizualization.
 
 # Dahboard Report
-![alt text](https://github.com/Rayaniz/EXCEL/blob/main/ExclusiveBreastFeeding/Images/BEXCL.PNG)
+![alt text](https://github.com/Rayaniz/POWERBI/blob/main/ExclusiveBreastFeeding/Images/BEXCL.PNG)
